@@ -28,14 +28,6 @@ sections:
         content: >-
           Integer consectetur purus neque, ac porttitor enim convallis vitae.
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
-  - section_id: call-to-action
-    type: section_cta
-    title: This Is Call To Action Block!
-    subtitle: This is an optional description for the call to action block.
-    actions:
-      - label: Get Started
-        url: /signup
-        style: primary
 seo:
   title: Stackbit Azimuth Theme
   description: The preview of the Azimuth theme
